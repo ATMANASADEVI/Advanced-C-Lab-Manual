@@ -34,6 +34,7 @@ int main() {
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/016ff3fc-34da-4462-a173-9b8c37f41a07)
 
 Result:
@@ -84,6 +85,7 @@ int main()
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/728fa003-40f4-4255-953f-f67574875e0a)
 
 Result:
@@ -175,6 +177,7 @@ int main() {
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/eb2168e6-0822-457e-a63a-fb1b450e2e3b)
 
 Result:
@@ -213,6 +216,7 @@ int main()
 }
 ```
 Output:
+
 ![image](https://github.com/user-attachments/assets/37496ad6-0997-4d75-b1c3-ddee9dd01ef0)
 
 Result:
@@ -263,6 +267,7 @@ int main() {
 ```
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/ac1065ea-2b7c-4ce3-b774-80c542888553)
 
 Result:
